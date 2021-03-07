@@ -1,0 +1,17 @@
+{
+  "name": "Perfumes-API",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/sarraj23/Perfumes-API.git",
+  "author": "sarraj23 <78157490+sarraj23@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "react-scripts": "^4.0.3"
+  },
+  "scripts": {
+    "start": "node src/app.js"
+  }
+}
